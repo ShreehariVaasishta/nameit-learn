@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nameit-learn/static/css/main.92a5353a.chunk.css",
+    "main.js": "/nameit-learn/static/js/main.d5497839.chunk.js",
+    "main.js.map": "/nameit-learn/static/js/main.d5497839.chunk.js.map",
+    "runtime-main.js": "/nameit-learn/static/js/runtime-main.c9ba8f7a.js",
+    "runtime-main.js.map": "/nameit-learn/static/js/runtime-main.c9ba8f7a.js.map",
+    "static/js/2.d6e43a1b.chunk.js": "/nameit-learn/static/js/2.d6e43a1b.chunk.js",
+    "static/js/2.d6e43a1b.chunk.js.map": "/nameit-learn/static/js/2.d6e43a1b.chunk.js.map",
+    "static/js/3.1c08fe52.chunk.js": "/nameit-learn/static/js/3.1c08fe52.chunk.js",
+    "static/js/3.1c08fe52.chunk.js.map": "/nameit-learn/static/js/3.1c08fe52.chunk.js.map",
+    "index.html": "/nameit-learn/index.html",
+    "static/css/main.92a5353a.chunk.css.map": "/nameit-learn/static/css/main.92a5353a.chunk.css.map",
+    "static/js/2.d6e43a1b.chunk.js.LICENSE.txt": "/nameit-learn/static/js/2.d6e43a1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9ba8f7a.js",
+    "static/js/2.d6e43a1b.chunk.js",
+    "static/css/main.92a5353a.chunk.css",
+    "static/js/main.d5497839.chunk.js"
+  ]
+}
